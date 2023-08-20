@@ -1,5 +1,5 @@
 # 💫About Me 
-"Bacteria Genome Analyst | Data Science Enthusiast | Health Research Advocate<b>
+"Genome Analyst | Data Science Enthusiast | Health Research Advocate<b>
 
 At the intersection of biology and data lies my passion. Currently immersed in the intricate world of bacteria genomes, I'm on a mission to decode the secrets hidden within the genetic fabric of microorganisms. My journey has led me through dynamic pipelines like Bactopia, Viralrecon, and the POPPUNK technique, where I harness the power of nucleotide kmers for population partitioning.<b>
 
