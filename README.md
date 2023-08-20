@@ -1,5 +1,13 @@
-# 💫 About Me:
-Working on:Bactopia-flexible pipeline for analysis of bacteria genomes.<br>Viralrecon-bioinformatics analysis pipeline used to perform assembly and intra-host/low-frequency variant calling for viral samples.<br>Data analyis with python.<br>Software Developer turned Data Scientist,Amateur Bio-informatic<br>I usually work on research data in the health sector subsequently leading to growing interest in data science and bio-informatics.<br>
+# 💫About Me 
+"Bacteria Genome Analyst | Data Science Enthusiast | Health Research Advocate<b>
+
+At the intersection of biology and data lies my passion. Currently immersed in the intricate world of bacteria genomes, I'm on a mission to decode the secrets hidden within the genetic fabric of microorganisms. My journey has led me through dynamic pipelines like Bactopia, Viralrecon, and the POPPUNK technique, where I harness the power of nucleotide kmers for population partitioning.<b>
+
+A software developer turned data scientist, I've embraced the synergy of code and data to unearth insights. Python is my trusted companion as I navigate the complexities of data analysis. My foray into the realm of bioinformatics has been nothing short of an exhilarating adventure, and I proudly wear the badge of an amateur bio-informatic.<b>
+
+My roots in the health sector have fueled my exploration. From research data to cutting-edge insights, I thrive on contributing to advancements that impact lives. With every line of code and every dataset explored, my passion for data science and bio-informatics grows stronger.<b>
+
+Join me as I traverse this exciting landscape, unraveling genetic mysteries, and leveraging data for meaningful impact. Let's connect, collaborate, and uncover the future together.<b>
 
 
 ## 🌐 Socials:
