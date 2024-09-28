@@ -9,6 +9,8 @@ My roots in the health sector have fueled my exploration. From research data to 
 
 Join me as I traverse this exciting landscape, unraveling genetic mysteries, and leveraging data for meaningful impact. Let's connect, collaborate, and uncover the future together.<b>
 
+Additional Activities
+In addition to my scientific pursuits, I am the founder of the Lwiiyo Community ICT Literacy Initiative, where we empower individuals through technology education. I also coordinate activities at Byte Buddies Computer Club, focusing on teaching kids the wonders of coding, digital literacy, and online safety.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alushaks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/r-eng-alumanda-shakankale/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alushaks) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alushaks) 
